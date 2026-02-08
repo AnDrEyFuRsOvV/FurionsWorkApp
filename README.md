@@ -1,6 +1,6 @@
 <p align="center">
   <!-- LOGO -->
-  <img src="docs/assets/logo.png" alt="Furions logo" width="120" />
+  <img src="docs/assets/logo.png" alt="Furions logo" width="200" />
 </p>
 
 <h1 align="center">FurionsWorkSystem</h1>
