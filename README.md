@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="docs/idea.md"><strong>🚀 Project Idea</strong></a>
+  <a href="docs/history.md"><strong>🚀 Project Idea</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="docs/modules.md"><strong>🧩 Modules</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
